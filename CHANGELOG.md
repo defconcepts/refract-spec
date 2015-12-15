@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to the Refract project will be documented in this file.
 
+## [0.7.0] - 2015-12-16
+
+### Breaking
+- Removes the concept of namespaces and uses profiles instead
+
 ## [0.6.0] - 2015-12-15
 
 ### Breaking
